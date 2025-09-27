@@ -33,6 +33,8 @@ El objetivo es entender cómo se construyen, configuran y despliegan servicios e
 ## 🚀 Cómo ejecutarlo
 
 
-git clone https://github.com/Henner13/Servidor-Web-Nginx.git
-cd servidor-web-nginx
-docker-compose up 
+```git clone https://github.com/Henner13/Servidor-Web-Nginx.git```
+
+```cd servidor-web-nginx```
+
+```docker-compose up``` 
